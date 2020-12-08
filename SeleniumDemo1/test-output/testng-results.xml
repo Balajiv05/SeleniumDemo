@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="17032" started-at="2020-12-04T08:56:35Z" finished-at="2020-12-04T08:56:52Z">
+  <suite name="Default suite" duration-ms="1764" started-at="2020-12-08T06:51:12Z" finished-at="2020-12-08T06:51:14Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="17032" started-at="2020-12-04T08:56:35Z" finished-at="2020-12-04T08:56:52Z">
-      <class name="com.infosys.test.SeleniumDemo1.GoogleSearchWebPage">
-        <test-method status="PASS" signature="ByGoogleSearchWebPage()[pri:0, instance:com.infosys.test.SeleniumDemo1.GoogleSearchWebPage@29ee9faa]" name="ByGoogleSearchWebPage" duration-ms="17005" started-at="2020-12-04T08:56:35Z" finished-at="2020-12-04T08:56:52Z">
+    <test name="Default test" duration-ms="1764" started-at="2020-12-08T06:51:12Z" finished-at="2020-12-08T06:51:14Z">
+      <class name="com.infosys.test.SeleniumDemo1.TestNGReport.GenerateExtentReport">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.infosys.test.SeleniumDemo1.TestNGReport.GenerateExtentReport@61832929]" name="loginTest" duration-ms="1722" started-at="2020-12-08T06:51:12Z" finished-at="2020-12-08T06:51:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- ByGoogleSearchWebPage -->
-      </class> <!-- com.infosys.test.SeleniumDemo1.GoogleSearchWebPage -->
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.infosys.test.SeleniumDemo1.TestNGReport.GenerateExtentReport -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

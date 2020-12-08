@@ -1,10 +1,9 @@
-package com.infosys.test.SeleniumDemo1;
-
+package com.infosys.test.SeleniumDemo1.TestNGReport;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 
-public class abc implements ITestListener {
+public class GenerateReport implements ITestListener {
 
 	@Override
 	public void onStart(ITestContext arg0) {

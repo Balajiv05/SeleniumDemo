@@ -3,11 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.infosys.test.SeleniumDemo1.AppTest">
+      <class name="com.infosys.test.SeleniumDemo1.TestNGReport.VerifyReportTest">
         <methods>
-          <include name="ByPixel"/>
+          <include name="testSimulation00"/>
+          <include name="testSimulation000"/>
         </methods>
-      </class> <!-- com.infosys.test.SeleniumDemo1.AppTest -->
+      </class> <!-- com.infosys.test.SeleniumDemo1.TestNGReport.VerifyReportTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
