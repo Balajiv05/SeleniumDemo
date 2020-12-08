@@ -3,12 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.infosys.test.SeleniumDemo1.TestNGReport.VerifyReportTest">
+      <class name="com.infosys.test.SeleniumDemo1.Assertions.ReadExcelFile">
         <methods>
-          <include name="testSimulation00"/>
-          <include name="testSimulation000"/>
+          <include name="ReadExcel"/>
         </methods>
-      </class> <!-- com.infosys.test.SeleniumDemo1.TestNGReport.VerifyReportTest -->
+      </class> <!-- com.infosys.test.SeleniumDemo1.Assertions.ReadExcelFile -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
